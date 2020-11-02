@@ -35,3 +35,10 @@ This application that scrapes the web for the latest news, facts and Mars's hemi
 ![Mars_enthusiaist_page](Resources/desktop_scr.png) 
 
 ![Mars_hemispheres](Resources/mars_hemispheres.png)
+
+
+#### Toggle Screen for mobile platforms. 
+
+![Mars_mission](Resources/toggle_device_scr.png)
+
+![mars_hemi_scr](Resources/toggle_device_scr_mars_hemis.png)
