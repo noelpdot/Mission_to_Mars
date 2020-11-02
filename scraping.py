@@ -107,7 +107,7 @@ def mars_facts():
 
 
 def hemispheres(browser):
-    print("hemispheres test")
+    #print("hemispheres test")
     url = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'
     browser.visit(url)
     # 2. Create a list to hold the images and titles.
