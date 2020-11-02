@@ -45,4 +45,4 @@ This application that scrapes the web for the latest news, facts and Mars's hemi
 
 
 #### Webpage Bootstrap Customization
-![mars_updated](Resources/webpage_custom.png)
+![mars_updated](Resources/Webpage_custom.png)
